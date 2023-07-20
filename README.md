@@ -2,8 +2,6 @@
 
 Recently, I visit a crypto tracker [site](https://coinmarketcap.com/currencies/bitcoin/) to check DogeCoin prices to see whether it going to the moon 🚀
 
-![Alt Text](https://media.giphy.com/media/Ogak8XuKHLs6PYcqlp/giphy.gif)
-
 I was curious about how to build a simplified version on that site using React, other libraries, and tools out there.
 
 So I did research to find which API to use and came across a free, reliable, and comprehensive API from the team 🦎[CoinGecko](https://www.coingecko.com/en/api).
